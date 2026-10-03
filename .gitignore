@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Tus sonidos (no se suben; cada uno pone los suyos)
+sounds/*
+!sounds/.gitkeep
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
